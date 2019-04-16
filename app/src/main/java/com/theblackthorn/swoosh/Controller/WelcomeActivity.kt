@@ -1,8 +1,8 @@
-package com.theblackthorn.swoosh
+package com.theblackthorn.swoosh.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.theblackthorn.swoosh.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class WelcomeActivity : BaseActivity() {

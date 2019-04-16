@@ -1,4 +1,4 @@
-package com.theblackthorn.swoosh
+package com.theblackthorn.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
